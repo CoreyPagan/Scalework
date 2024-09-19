@@ -1,2 +1,2 @@
-# aws-restart
-AWS Restart cloud program
+# Scalework
+A collection of scripts I have worked on during my Scalework course
