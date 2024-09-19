@@ -1,5 +1,5 @@
 #!/bin/bash
-# Log file parser project
+# Log file parser for systemd and OpenRC
 
 # Using a function to display a message and exit
 exit_message() {
